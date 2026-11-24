@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExemplosCsharp
 {
-    internal class ExemploWhile11
+    internal class ExemploMetodo
     {
         public static void imprimirTexto(string nome)
             //metotodod
